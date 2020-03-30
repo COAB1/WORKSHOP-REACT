@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    background-image: linear-gradient(white, #ff09ff);
+  }
+  
+  .navbar {
+    display: flex;
+    flex-direction: row;
+  }
+  .navbar-item {
+    /* margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px; */
+    flex: 1;
+    text-align: center;
+  }
